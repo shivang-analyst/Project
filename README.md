@@ -1,4 +1,4 @@
-# Project<h1>Hi 👋, I'm Shivang</h1>
+# Project<h1>Hi 👋, I'm Shivang</h1> .
 <p>A passionate data analyst</p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a>
